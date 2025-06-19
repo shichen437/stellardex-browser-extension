@@ -1,0 +1,40 @@
+{
+  "setting": "设置",
+  "back": "返回",
+  "theme": {
+    "light": "浅色模式",
+    "dark": "深色模式",
+    "system": "跟随系统"
+  },
+  "connect": {
+    "submit": "连接",
+    "loading": "连接中...",
+    "fields": {
+      "url": "服务器地址",
+      "apiKey": "密钥"
+    },
+    "placeholder": {
+      "apiKey": "输入您的密钥"
+    }
+  },
+  "bookmark": {
+    "title": "书签",
+    "save": "保存书签",
+    "success": "书签保存成功",
+    "loading": "保存中...",
+    "fields": {
+      "title": "标题",
+      "label": "标签"
+    },
+    "placeholder": {
+      "title": "请输入标题",
+      "label": "多个标签用 , 隔开"
+    }
+  },
+  "error": {
+    "connection": "连接失败，请检查服务器地址和密钥",
+    "save": "保存失败",
+    "getPageUrl": "获取页面URL失败",
+    "notArticlePage": "当前页面不是文章页面"
+  }
+}

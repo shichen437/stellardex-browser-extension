@@ -1,0 +1,40 @@
+{
+  "setting": "Settings",
+  "back": "Back",
+  "theme": {
+    "light": "Light Mode",
+    "dark": "Dark Mode",
+    "system": "System"
+  },
+  "connect": {
+    "submit": "Connect",
+    "loading": "Connecting...",
+    "fields": {
+      "url": "Server Url",
+      "apiKey": "Api Key"
+    },
+    "placeholder": {
+      "apiKey": "Input your api key"
+    }
+  },
+  "bookmark": {
+    "title": "Bookmark",
+    "save": "Save Bookmark",
+    "success": "Bookmark saved successfully",
+    "loading": "Saving...",
+    "fields": {
+      "title": "Title",
+      "label": "Label"
+    },
+    "placeholder": {
+      "title": "Please input title",
+      "label": "Multiple labels are separated by , "
+    }
+  },
+  "error": {
+    "connection": "Connection failed, please check server url and api key",
+    "save": "Save failed",
+    "getPageUrl": "Get page url failed",
+    "notArticlePage": "Current page is not article page"
+  }
+}
